@@ -1,9 +1,9 @@
 ## Hola! Soc en DAMIAN ZIBOWA👋
 
-# Portfolio — SMX Student
+# Portfolio — Estudiant SMX
 
 ## Sobre mi
-Soc estudiant de **SMX (Sistemes Microinformàtics i Xarxes)** i m’interessa especialment la part pràctica de la informàtica: Linux, xarxes, servidors i programació.  
+Soc estudiant de **SMX (Sistemes Microinformàtics i Xarxes)** i m’interessa especialment la part pràctica de la informàtica: webs, programació i potser alguna cosa de bases de dades.  
 Vull continuar la meva formació cap a **DAM** i **DAW** per enfocar-me en desenvolupament i creixement tècnic.
 
 ## Què trobaràs en aquest portfoli
