@@ -26,7 +26,9 @@ Aquest repositori recull alguns dels projectes i activitats que he anat fent dur
 - [Projecte 5](https://github.com/Landshore/projecte5-Landshore)
 - [Projecte 6](https://github.com/Landshore/projecte6-Landshore)
 - [Projecte 7](https://github.com/Landshore/projecte-7-Landshore)
+- [Projecte 8](https://github.com/Landshore/projecte-8-Landshore)
 - [Foodlogistic Web](https://github.com/Landshore/Foodlogistic-web)
+
 
 ## Exemple de pràctica
 Aquí tens un exemple de codi que he anat treballant durant la meva pràctica:
